@@ -1,0 +1,78 @@
+body{
+    background-color: black;
+
+}
+
+.gordo{
+    background-color: black;
+    height: 100%vh;
+    width: 100%vh;
+    display:flex;
+    justify-content: center;
+    align-items:middle
+}
+
+.gordito{
+    background-color: white;
+    width:40%;
+    height:80%
+    
+
+}
+
+
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    width:100%
+
+}
+
+.left_side{
+    display:flex;
+    align-items:center
+
+}
+
+.avatar{
+    font-size: xx-large;
+    padding: 10px;
+
+}
+
+.title-text{
+    font-family: "Roboto", sans-serif;
+    margin:0px
+}
+.menu{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width:10%
+}  
+img{
+    width:100%
+}
+
+
+
+.icons{
+    padding:10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-side{
+    display:flex;
+    
+}
+
+.icon{
+    font-size: x-large;
+    padding-right: 5px;
+}
+    
+.text{
+    font-family: "Roboto", sans-serif;
+    padding: 10px
+}
